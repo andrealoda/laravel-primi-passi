@@ -11,3 +11,29 @@
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
+/* Titolo H1 */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Bottone */
+.btn-test {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #3498db;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.25s ease;
+    margin-top: 20px;
+}
+
+.btn-test:hover {
+    background-color: #1d6fa5;
+}
