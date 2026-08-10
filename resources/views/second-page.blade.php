@@ -9,8 +9,11 @@
 </head>
 
 <body>
+
+    @include('partials.navbar')
+
     <h1>Questa è la mia seconda pagina PHP!</h1>
-        <div style="text-align:center;">
+    <div style="text-align:center;">
         <a href="/" class="btn-test">Torna alla homepage</a>
     </div>
 </body>
