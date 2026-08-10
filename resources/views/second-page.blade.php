@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Seconda Pagina</title>
 </head>
 <body>
-    <h1>Questa è la mia prima homepage PHP!</h1>
-    <a href="second-page">Vai alla seconda pagina</a>
+    <h1>Questa è la mia seconda pagina PHP!</h1>
+    <a href="/">Torna alla homepage</a>
 </body>
 </html>
