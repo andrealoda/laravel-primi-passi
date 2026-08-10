@@ -4,7 +4,7 @@
 <h1>Homepage</h1>
 
 <p>
-    Questa è la prima pagina.
+    {{ $informazioni }}
 </p>
 <div class="btn">
     <a href="/second-page">Vai alla pagina 2</a>

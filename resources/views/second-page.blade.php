@@ -4,7 +4,7 @@
     <h1>Pagina 2</h1>
 
     <p>
-        Sei arrivato alla seconda pagina.
+      {{$informazioni}}
 
     </p>
 

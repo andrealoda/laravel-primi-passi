@@ -4,7 +4,7 @@
     <h1>Pagina 5</h1>
 
     <p>
-        Sei arrivato alla quinta pagina.
+        {{$informazioni}}
 
     </p>
 
