@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Pagina 2</h1>
+    <h1>Pagina 3</h1>
 
     <p>
-        Sei arrivato alla seconda pagina.
+        Sei arrivato alla terza pagina.
 
     </p>
 
