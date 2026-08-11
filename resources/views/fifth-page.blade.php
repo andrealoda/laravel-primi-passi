@@ -1,4 +1,8 @@
-@extends('layouts.app')
+@extends('layouts.master')
+
+@section('title')
+Pagina 5
+@endsection
 
 @section('content')
     <h1>Pagina 5</h1>
